@@ -1,1 +1,1 @@
-## A Quick Recipe App built in react.
+## A Quick Recipe App built in ReactJs.
